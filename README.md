@@ -36,7 +36,7 @@
   Итак, предлагаю Вашему вниманию инструкцию по настройке и запуску программного обеспечения Stronghold Crusader HD Launcher:
   <ol>
     <li>Скачайте скомпилированный .exe-файл стабильной версии ПО в разделе <a href="https://github.com/AntonS2000/Stronghold-Crusader-HD-Launcher/releases">Releases</a> данного репозитория или по <a href="https://github.com/AntonS2000/Stronghold-Crusader-HD-Launcher/releases/download/Release/Stronghold.Crusader.HD.Launcher.zip">прямой ссылке</a>.</li>
-    <li>Распакуйте скачанный .zip-архив <b>как есть</b> в папку с портативной сборкой игры Stronhold Crusader HD v1.3. Скачать её можно <a href="www.google.com">здесь</a>.</li>
+    <li>Распакуйте скачанный .zip-архив <b>как есть</b> в папку с портативной сборкой игры Stronhold Crusader HD v1.3.</li>
     <li>Перейдите в директорию SCHDL и запустите исполняемый файл.</li>
     <li>Первые две кнопки в интерфейсе ПО изменяют тему, а также включают и отключают служебные всплывающие уведомления в нём. По умолчанию выставлены приемлемые значения для большинства пользователей.</li>
     <li>Ниже расположен список утилит, которые необходимо запустить для комфортной игры в Stronhold Crusader HD. Для справки:
