@@ -7,8 +7,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-v3.13-yellow?style=flat&logo=python&logoColor=yellow" alt="Версия Python">
   <img src="https://img.shields.io/badge/SCHDL-v1.0.0 (Stable)-blue?style=flat" alt="QESPy Desktop Version">
-  <img src="https://img.shields.io/badge/Windows-blue?style=flat&logo=windows" alt="OS">
-  <img src="https://img.shields.io/badge/%D0%9B%D0%B8%D1%86%D0%B5%D0%BD%D0%B7%D0%B8%D1%8F-MAF%20Original%20License-gren?style=flat" alt="License">
+  <img src="https://img.shields.io/badge/OS-Windows-blue?style=flat&logo=windows" alt="OS">
+  <img src="https://img.shields.io/badge/License-MAF%20Original%20License-gren?style=flat" alt="License">
 </p>
 
 <h3 align="center">О ПРОЕКТЕ</h3>
