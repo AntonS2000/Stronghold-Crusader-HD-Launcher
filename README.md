@@ -64,7 +64,7 @@
   <code>pip install auto-py-to-exe</code>
 </pre>
   А также настройки, которые желательно проделать и у себя:
-  <img src="https://i125.fastpic.org/big/2025/0811/ad/_f1837ec4429b14e02a1a8f32d4029ead.png?md5=CWDKh5SFpR3hWYPVsWC_yA&expires=1754877600">
+  <img src="https://github.com/AntonS2000/Stronghold-Crusader-HD-Launcher/blob/Master/PNG/_f1837ec4429b14e02a1a8f32d4029ead.png">
 </p>
 Скорее всего исполняемый файл со всеми зависимостями сохранится в директории <b>Stronghold Crusader HD Launcher/output/Stronghold Crusader HD Launcher/...exe</b>. Необходимо извлечь исполняемый файл SCHDL со всеми зависимостями (папка <b>_internal</b>) и поместить в корень папки SCHDL. Иначе ПО не будет работать корректно. Это просто моя рекомендация, возможно, Вы захотите всё сделать по-другому.
 </p>
